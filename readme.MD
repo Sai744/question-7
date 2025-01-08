@@ -27,7 +27,7 @@ Checking the logs of the container
 ![24](https://github.com/user-attachments/assets/a0782d94-68f0-4a6f-b5ba-3928d17dae62)
 
 
-* Explanation of the dockerfile:
+* Explanation of the backend dockerfile:
 
 
 From command imports official Node.js 20 image as the base image for the builder stage .
