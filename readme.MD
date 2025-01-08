@@ -1,6 +1,6 @@
 In this question I have taken 2 sample docker files(mysql, backend) .I have taken sample nodejs application . Build those docker files checked the logs and push those into ECR(Elastic container registry).
 
-Initially checked images and containers. 
+* Initially checked images and containers. 
 
 ![20](https://github.com/user-attachments/assets/4ff555a1-9a27-4158-a850-a8c8604efc34)
 
